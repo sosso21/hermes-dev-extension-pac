@@ -7,7 +7,7 @@
   "engines": {
     "vscode": "^1.74.0"
   },
-  "icon": "logo.png",
+  "icon": "https://firebasestorage.googleapis.com/v0/b/bessa-template.appspot.com/o/hermes%2Fframe_4.png?alt=media&token=c3e2926a-f5f2-4f98-b751-b9e136f36914",
   "categories": [
     "Extension Packs"
   ],
